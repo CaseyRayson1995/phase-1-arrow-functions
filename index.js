@@ -11,5 +11,5 @@ const divide = (a,b) =>  {
    //square arrow function takes one parameter and multiplies it times itself✓
   const square = (x) => x * x;        //read errors correctly test 3-4 is seperate from test 1-2 its slows you down 
 
-const add = (c,d) => c + d;
+const add = (c,d) => c + d; 
 
